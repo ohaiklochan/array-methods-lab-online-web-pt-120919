@@ -27,4 +27,5 @@ end
 def using_size
   the_office = ["Michael","Jim", "Dwight", "Pam"]
   the_office.size
+  => 4
 end
