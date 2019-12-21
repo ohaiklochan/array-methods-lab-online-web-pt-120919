@@ -22,10 +22,11 @@ end
 def using_last
   the_office = ["Michael","Jim", "Dwight", "Pam"]
   the_office.last
+  puts the_office.inspect
 end
 
 def using_size
   the_office = ["Michael","Jim", "Dwight", "Pam"]
   the_office.size
-  => 4
+  puts the_office.inspect
 end
