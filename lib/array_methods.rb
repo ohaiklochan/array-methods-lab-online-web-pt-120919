@@ -1,6 +1,7 @@
 def using_include(array, element)
   the_office = ["Michael","Jim", "Dwight", "Pam"]
   the_office.include?("Ryan")
+  the_office.include?("Dwight")
 end
 
 def using_sort(array)
